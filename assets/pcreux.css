@@ -1,0 +1,95 @@
+body {
+  color: #373535;
+  background: #ede4e4 url(/assets/bg.jpg) fixed;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", Verdana, Arial, Helvetica, sans-serif;
+  font-size: 95%;
+  line-height: 120%;
+}
+
+.page {
+  border-bottom: solid #94b423 4px;
+  margin: 0px;
+  background-image: url(/assets/tree.jpg);
+  background-position: bottom right;
+  background-repeat: no-repeat;
+  padding-top: 2em;
+}
+
+.content {
+  min-width: 200px;
+  max-width: 600px;
+  margin: auto;
+  text-align: left;
+  padding-bottom: 180px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+a {
+  color: #b74646;
+  text-decoration: none;
+  -webkit-transition: color 0.1s linear;
+  -moz-transition: color 0.1s linear;
+  -o-transition: color 0.1s linear;
+}
+
+a:hover {
+  color: #327fe7;
+}
+
+.title, h1, h2, h3 {
+  text-shadow: 0px 1px 0px white;
+  font-family: "Ubuntu", "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-weight: normal;
+}
+
+.title {
+  text-align: center;
+  font-size: 2.0em;
+  margin-bottom: 2em;
+  line-height: 1em;
+}
+
+.more {
+  margin-top: 2.2em;
+  text-align: right;
+}
+
+h1 {
+  text-align: left;
+  font-size: 1.6em;
+  margin-top: 1.8em;
+  padding-top: 20px;
+  margin-bottom: 1em;
+  border-radius: 4px 4px 0 0;
+}
+
+h2 {
+  font-size: 1.2em;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+p, ul {
+  margin-bottom: 0.5em;
+}
+
+pre {
+  margin-left: 1em;
+}
+
+em {
+  font-style: italic;
+}
+
+li {
+  display: list-item;
+}
+
+li:before {
+  content: "» \00a0";
+}
+
+.center {
+  text-align: center;
+}
