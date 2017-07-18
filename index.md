@@ -2,7 +2,7 @@
 layout: home
 ---
 
-Hello, my name is Philippe Creux. I am a cofounder of [brewhouse](http://brewhouse.io) where I design and build healthy softwares. I organize [conferences](http://2012.rulu.eu),
+Hello, my name is Philippe Creux. I build healthy software at [Kickstarter](https://www.kickstarter.com). I organize [conferences](http://2012.rulu.eu),
 [meetups](http://lyonrb.fr),
 I run a [podcast](http://parlonsruby.com),
 I contribute to [open-source](http://github.com/pcreux).
