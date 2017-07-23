@@ -2,30 +2,31 @@
 layout: home
 ---
 
-Hello, my name is Philippe Creux. I build healthy software at [Kickstarter](https://www.kickstarter.com). I organize [conferences](http://2012.rulu.eu),
-[meetups](http://lyonrb.fr),
-I run a [podcast](http://parlonsruby.com),
-I contribute to [open-source](http://github.com/pcreux).
+Hello, my name is Philippe Creux.
+I build healthy software at [Kickstarter](https://www.kickstarter.com), I run [VanRuby](http://vanruby.org) and I contribute to [Open Source](http://github.com/pcreux).
+
 
 # Latest blog posts
 
-## [Healthy Codebase and Preparatory Refactoring](http://brewhouse.io/blog/2014/11/10/healthy-codebase-and-preparatory-refactoring.html) - November 2014
+## [Five Practices for Robust Ruby on Rails applications](http://brewhouse.io/2016/02/26/five-practices-for-robust-ruby-on-rails-applications.html) - Feb 2016
 
-In a recent episode of the RubyRogues podcast, Martin Fowler and Jessica
-Kerr literally spoke my mind. They named two concepts that I deeply
-believe in and care about: Healthy Codebase and Preparatory Refactoring.
-The fact that they have expressed them in beautiful words and powerful
-metaphors enables me to share them with you in this article.
+## [Be nice to others and your future-self: use Data Objects](http://brewhouse.io/2015/07/31/be-nice-to-others-and-your-future-self-use-data-objects.html) - July 2015
+
+## [Weather forecast retrospective meeting](http://brewhouse.io/blog/2015/07/07/weather-forecast-retrospective-meeting.html) - July 2015
+
+## [Elegant tests with Truth Tables](http://brewhouse.io/blog/2015/04/13/elegant-tests-with-truth-tables.html) - April 2015
+
+## [Healthy Codebase and Preparatory Refactoring](http://brewhouse.io/blog/2014/11/10/healthy-codebase-and-preparatory-refactoring.html) - November 2014
 
 ## [Gourmet Service objects](http://brewhouse.io/blog/2014/04/30/gourmet-service-objects.html) - April 2014
 
-Is your Rails app’s business logic hidden in ugly controllers with 10+
-lines long method and fat models powered by Linguini callbacks? Are your
-tests getting out of control and you spend most of your days looking at
-green dots? Do you want to impress your coworkers with Unicorn level
-code? You need Gourmet Service Objects™!
-
 # Open source
+
+## [CSV Importer](https://github.com/pcreux/csv-importer) - CSV Import for humans on Ruby / Ruby on Rails
+
+Importing a CSV file is easy to code until real users attempt to import real data.
+
+CSVImporter aims to handle validations, column mapping, import and reporting.
 
 ## [ActiveAdmin](http://activeadmin.info) - Administration framework for Ruby on Rails
 
@@ -62,13 +63,15 @@ the latest version that does not break your tests.
 
 # Community
 
-I am one of the guys behind the Ruby Conference [Rulu 2012](http://2012.rulu.eu).
+I run [VanRuby](http://vanruby.org).
+
+I co-organized the Ruby Conference [Rulu 2012](http://2012.rulu.eu).
 
 I ran the podcast [ParlonsRuby](http://parlonsruby.com) with Fabien Catteau.
 
 I taught [Agility, TDD and Git](https://speakerdeck.com/search?q=Philippe+Creux+IUT) at the University Aix-Marseille II.
 
-I co-organize the [Lyon Ruby Meetups](http://lyonrb.fr) as well as the
+I co-organized the [Lyon Ruby Meetups](http://lyonrb.fr) as well as the
 [Valence Agile Meetups](http://groupspaces.com/CARAValence).
 
 # Around the web
