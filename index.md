@@ -35,7 +35,6 @@ I build healthy software at [Kickstarter](https://www.kickstarter.com), I run [V
 ## [CSV Importer](https://github.com/pcreux/csv-importer) - CSV Import for humans on Ruby / Ruby on Rails
 
 Importing a CSV file is easy to code until real users attempt to import real data.
-
 CSVImporter aims to handle validations, column mapping, import and reporting.
 
 ## [ActiveAdmin](http://activeadmin.info) - Administration framework for Ruby on Rails
