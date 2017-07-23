@@ -20,6 +20,16 @@ I build healthy software at [Kickstarter](https://www.kickstarter.com), I run [V
 
 ## [Gourmet Service objects](http://brewhouse.io/blog/2014/04/30/gourmet-service-objects.html) - April 2014
 
+# Latest talks
+
+## [Robust Rails Apps](https://gist.github.com/pcreux/5700f5295bb14f33db82242296eae029) - VanRuby, March 2017
+
+## [DRY 2.0](https://speakerdeck.com/pcreux/dry-2-dot-0) - VanRuby, Dec 2016
+
+## [Functional Micro Services](https://speakerdeck.com/pcreux/functional-micro-services) - Code & Coffee, October 2016
+
+## [Gourmet Service Objects](https://gist.github.com/pcreux/9277929) - VanRuby, February 2014
+
 # Open source
 
 ## [CSV Importer](https://github.com/pcreux/csv-importer) - CSV Import for humans on Ruby / Ruby on Rails
