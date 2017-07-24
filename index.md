@@ -29,13 +29,13 @@ I am currently running the [Vancouver Ruby meet-up](http://vanruby.org). Prior t
 
 # Latest talks
 
-## [Robust Rails Apps](https://gist.github.com/pcreux/5700f5295bb14f33db82242296eae029) – March 2017, [VanRuby](https://www.meetup.com/vancouver-ruby/)
+## [Robust Rails Apps](https://gist.github.com/pcreux/5700f5295bb14f33db82242296eae029) – March 2017, at [VanRuby](https://www.meetup.com/vancouver-ruby/)
 
-## [DRY 2.0](https://speakerdeck.com/pcreux/dry-2-dot-0) – Dec 2016, [VanRuby](https://www.meetup.com/vancouver-ruby/)
+## [DRY 2.0](https://speakerdeck.com/pcreux/dry-2-dot-0) – Dec 2016, at [VanRuby](https://www.meetup.com/vancouver-ruby/)
 
-## [Functional Micro Services](https://speakerdeck.com/pcreux/functional-micro-services) – October 2016, [Code & Coffee](https://www.meetup.com/codecoffeeyvr/)
+## [Functional Micro Services](https://speakerdeck.com/pcreux/functional-micro-services) – October 2016, at [Code & Coffee](https://www.meetup.com/codecoffeeyvr/)
 
-## [Gourmet Service Objects](https://gist.github.com/pcreux/9277929) – February 2014, [VanRuby](https://www.meetup.com/vancouver-ruby/)
+## [Gourmet Service Objects](https://gist.github.com/pcreux/9277929) – February 2014, at [VanRuby](https://www.meetup.com/vancouver-ruby/)
 
 # Open source
 
