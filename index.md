@@ -2,8 +2,13 @@
 layout: home
 ---
 
-Hello, my name is Philippe Creux.
-I build healthy software at [Kickstarter](https://www.kickstarter.com), I run [VanRuby](http://vanruby.org) and I contribute to [Open Source](http://github.com/pcreux).
+Hello, my name is Philippe Creux. I deeply care about shipping software that’s simple, robust and cost-effective.
+
+I build healthy software at [Kickstarter](https://www.kickstarter.com) to *help bring creative projects to life*.
+
+I’ve been sharing my learnings and practices on various blog posts and built several open source projects.
+
+I am currently running the [Vancouver Ruby meet-up](http://vanruby.org). Prior to that, I ran the meet-ups [Lyon.rb](http://lyonrb.fr) and [Agile Valence](http://groupspaces.com/CARAValence), hosted the podcast [Parlons Ruby](http://parlonsruby.com) and co-organized the [Ruby Lyon Conference 2012](http://2012.rulu.eu).
 
 
 # Latest blog posts
@@ -61,7 +66,7 @@ Amazon S3 is the cheapest and easiest way to serve a jekyll blog. jekyll-s3 (now
 all invalid Active Records your database contain. Run it, fix your records and
 sleep better at night.
 
-## [bundler-auto-update](https://github.com/versapay/bundler-auto-update) – Auto-magi-safely update your Gemfile
+## [bundler-auto-update](https://github.com/pcreux/bundler-auto-update) – Auto-magi-safely update your Gemfile
 
 [bundler-auto-update](https://github.com/pcreux/bundler-auto-update) update all the gems listed in your Gemfile to
 the latest version that does not break your tests.
@@ -85,7 +90,7 @@ I co-organized the [Lyon Ruby Meetups](http://lyonrb.fr) as well as the
 
 # Around the web
 
-You can find me on [Twitter](http://twitter.com/pcreux), [Github](http://github.com/pcreux) and [LinkedIn](http://linkedin.com/in/pcreux).
+You can find me on [Twitter](http://twitter.com/pcreux), [Github](http://github.com/pcreux), [LinkedIn](http://linkedin.com/in/pcreux) and [Instagram](https://www.instagram.com/pcreux).
 
 # Contact me at pcreux AT gmail DOT com.
 
