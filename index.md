@@ -53,7 +53,13 @@ I am currently running the [Vancouver Ruby meet-up](http://vanruby.org). Prior t
 
 ## [git-branch-delete-orphans](https://github.com/pcreux/git-branch-delete-orphans) – Delete orphan branches
 
-[git-branch-delete-orphans](https://github.com/pcreux/git-branch-delete-orphans) helps you deleting all those local tracking branches which remote does not exists anymore.
+# Live, free and unmaintained projects
+
+## [3Smileys](http://3smileys.com/) – Get feedback on newsletters and emails you send. 2013
+
+## [bustop.ca](http://bustop.ca/) – Real-time bus arrivals in Vancouver, BC. 2012
+
+## [thatz.at/](http://thatz.at/) – Your time in any timezone. 2010
 
 # Community
 
