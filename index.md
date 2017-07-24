@@ -8,36 +8,36 @@ I build healthy software at [Kickstarter](https://www.kickstarter.com), I run [V
 
 # Latest blog posts
 
-## [Five Practices for Robust Ruby on Rails applications](http://brewhouse.io/2016/02/26/five-practices-for-robust-ruby-on-rails-applications.html) - Feb 2016
+## [Five Practices for Robust Ruby on Rails applications](http://brewhouse.io/2016/02/26/five-practices-for-robust-ruby-on-rails-applications.html) – Feb 2016
 
-## [Be nice to others and your future-self: use Data Objects](http://brewhouse.io/2015/07/31/be-nice-to-others-and-your-future-self-use-data-objects.html) - July 2015
+## [Be nice to others and your future-self: use Data Objects](http://brewhouse.io/2015/07/31/be-nice-to-others-and-your-future-self-use-data-objects.html) – July 2015
 
-## [Weather forecast retrospective meeting](http://brewhouse.io/blog/2015/07/07/weather-forecast-retrospective-meeting.html) - July 2015
+## [Weather forecast retrospective meeting](http://brewhouse.io/blog/2015/07/07/weather-forecast-retrospective-meeting.html) – July 2015
 
-## [Elegant tests with Truth Tables](http://brewhouse.io/blog/2015/04/13/elegant-tests-with-truth-tables.html) - April 2015
+## [Elegant tests with Truth Tables](http://brewhouse.io/blog/2015/04/13/elegant-tests-with-truth-tables.html) – April 2015
 
-## [Healthy Codebase and Preparatory Refactoring](http://brewhouse.io/blog/2014/11/10/healthy-codebase-and-preparatory-refactoring.html) - November 2014
+## [Healthy Codebase and Preparatory Refactoring](http://brewhouse.io/blog/2014/11/10/healthy-codebase-and-preparatory-refactoring.html) – November 2014
 
-## [Gourmet Service objects](http://brewhouse.io/blog/2014/04/30/gourmet-service-objects.html) - April 2014
+## [Gourmet Service objects](http://brewhouse.io/blog/2014/04/30/gourmet-service-objects.html) – April 2014
 
 # Latest talks
 
-## [Robust Rails Apps](https://gist.github.com/pcreux/5700f5295bb14f33db82242296eae029) - [VanRuby](https://www.meetup.com/vancouver-ruby/), March 2017
+## [Robust Rails Apps](https://gist.github.com/pcreux/5700f5295bb14f33db82242296eae029) – [VanRuby](https://www.meetup.com/vancouver-ruby/), March 2017
 
-## [DRY 2.0](https://speakerdeck.com/pcreux/dry-2-dot-0) - [VanRuby](https://www.meetup.com/vancouver-ruby/), Dec 2016
+## [DRY 2.0](https://speakerdeck.com/pcreux/dry-2-dot-0) – [VanRuby](https://www.meetup.com/vancouver-ruby/), Dec 2016
 
-## [Functional Micro Services](https://speakerdeck.com/pcreux/functional-micro-services) - [Code & Coffee](https://www.meetup.com/codecoffeeyvr/), October 2016
+## [Functional Micro Services](https://speakerdeck.com/pcreux/functional-micro-services) – [Code & Coffee](https://www.meetup.com/codecoffeeyvr/), October 2016
 
-## [Gourmet Service Objects](https://gist.github.com/pcreux/9277929) - [VanRuby](https://www.meetup.com/vancouver-ruby/), February 2014
+## [Gourmet Service Objects](https://gist.github.com/pcreux/9277929) – [VanRuby](https://www.meetup.com/vancouver-ruby/), February 2014
 
 # Open source
 
-## [CSV Importer](https://github.com/pcreux/csv-importer) - CSV Import for humans on Ruby / Ruby on Rails
+## [CSV Importer](https://github.com/pcreux/csv-importer) – CSV Import for humans on Ruby / Ruby on Rails
 
 Importing a CSV file is easy to code until real users attempt to import real data.
 CSVImporter aims to handle validations, column mapping, import and reporting.
 
-## [ActiveAdmin](http://activeadmin.info) - Administration framework for Ruby on Rails
+## [ActiveAdmin](http://activeadmin.info) – Administration framework for Ruby on Rails
 
 ActiveAdmin helps you build fully featured administration interface.
 You can add it to an existing rails application to get a powerful admin UI or build a standalone back office app in days rather than weeks.
