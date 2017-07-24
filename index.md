@@ -2,7 +2,9 @@
 layout: home
 ---
 
-Hello, my name is Philippe Creux. I deeply care about shipping software that’s simple, robust and cost-effective.
+Hello, my name is Philippe Creux.
+
+I am a Software Developer based in Vancouver, BC. I deeply care about shipping software that’s simple, robust and cost-effective.
 
 I build healthy software at [Kickstarter](https://www.kickstarter.com) to *help bring creative projects to life*.
 
