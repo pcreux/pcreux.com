@@ -55,11 +55,11 @@ I am currently running the [Vancouver Ruby meet-up](http://vanruby.org). Prior t
 
 # Live, free and unmaintained projects
 
-## [3Smileys](http://3smileys.com/) – Get feedback on newsletters and emails you send. 2013
+## [3Smileys](http://3smileys.com/) – Get feedback on newsletters and emails you send
 
-## [bustop.ca](http://bustop.ca/) – Real-time bus arrivals in Vancouver, BC. 2012
+## [bustop.ca](http://bustop.ca/) – Real-time bus arrivals in Vancouver, BC
 
-## [thatz.at/](http://thatz.at/) – Your time in any timezone. 2010
+## [thatz.at/](http://thatz.at/) – Your time in any timezone
 
 # Community
 
