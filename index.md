@@ -47,7 +47,7 @@ I am currently running the [Vancouver Ruby meet-up](http://vanruby.org). Prior t
 
 ## [jekyll-s3](https://github.com/laurilehmijoki/s3_website) – Push your jekyll blog to Amazon S3
 
-## [active_sanity](https://github.com/versapay/active_sanity) – Sanity check your database
+## [active_sanity](https://github.com/pcreux/active_sanity) – Sanity check your database
 
 ## [bundler-auto-update](https://github.com/pcreux/bundler-auto-update) – Auto-magi-safely update your Gemfile
 
@@ -55,11 +55,11 @@ I am currently running the [Vancouver Ruby meet-up](http://vanruby.org). Prior t
 
 # Live, free and unmaintained projects
 
-## [3Smileys](http://3smileys.com/) – Get feedback on newsletters and emails you send
+## [3Smileys](http://3smileys.com/) – Get feedback on newsletters and emails you send. 2013
 
-## [bustop.ca](http://bustop.ca/) – Real-time bus arrivals in Vancouver, BC
+## [bustop.ca](http://bustop.ca/) – Real-time bus arrivals in Vancouver, BC. 2012
 
-## [thatz.at/](http://thatz.at/) – Your time in any timezone
+## [thatz.at/](http://thatz.at/) – Your time in any timezone. 2010
 
 # Community
 
