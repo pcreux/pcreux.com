@@ -37,13 +37,13 @@ I am currently running the [Vancouver Ruby meet-up](http://vanruby.org). Prior t
 
 {% endfor %}
 
-# Live, free and unmaintained projects
+# Live, free and unmaintained apps
 
-## [3Smileys](http://3smileys.com/) – Get feedback on newsletters and emails you send. 2013
+{% for app in site.data.apps %}
 
-## [bustop.ca](http://bustop.ca/) – Real-time bus arrivals in Vancouver, BC. 2012
+## [{{app.title}}]({{app.url}}) – {{app.description}}
 
-## [thatz.at/](http://thatz.at/) – Your time in any timezone. 2010
+{% endfor %}
 
 # Community
 
