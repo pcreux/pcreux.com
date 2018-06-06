@@ -15,19 +15,11 @@ I am currently running the [Vancouver Ruby meet-up](http://vanruby.org). Prior t
 
 # Latest blog posts
 
-## [Event Sourcing made Simple](https://kickstarter.engineering/event-sourcing-made-simple-4a2625113224) – April 2018
+{% for post in site.data.posts %}
 
-## [Five Practices for Robust Ruby on Rails applications](http://brewhouse.io/2016/02/26/five-practices-for-robust-ruby-on-rails-applications.html) – Feb 2016
+## [{{post.title}}]({{post.url}}) – {{post.date}}
 
-## [Be nice to others and your future-self: use Data Objects](http://brewhouse.io/2015/07/31/be-nice-to-others-and-your-future-self-use-data-objects.html) – July 2015
-
-## [Weather forecast retrospective meeting](http://brewhouse.io/blog/2015/07/07/weather-forecast-retrospective-meeting.html) – July 2015
-
-## [Elegant tests with Truth Tables](http://brewhouse.io/blog/2015/04/13/elegant-tests-with-truth-tables.html) – April 2015
-
-## [Healthy Codebase and Preparatory Refactoring](http://brewhouse.io/blog/2014/11/10/healthy-codebase-and-preparatory-refactoring.html) – November 2014
-
-## [Gourmet Service objects](http://brewhouse.io/blog/2014/04/30/gourmet-service-objects.html) – April 2014
+{% endfor %}
 
 # Latest talks
 
