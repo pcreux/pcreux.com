@@ -1,0 +1,23 @@
+- title: Robust Rails Apps
+  url: https://gist.github.com/pcreux/5700f5295bb14f33db82242296eae029
+  date: March 2017
+  location: &vanruby
+    name: VanRuby
+    url: https://www.meetup.com/vancouver-ruby/
+
+- title: DRY 2.0
+  url: https://speakerdeck.com/pcreux/dry-2-dot-0
+  date: Dec 2016
+  location: *vanruby
+
+- title: Functional Micro Services
+  url: https://speakerdeck.com/pcreux/functional-micro-services
+  date: October 2016
+  location: &codeandcoffee
+    name: Code & Coffee
+    url: https://www.meetup.com/codecoffeeyvr/
+
+- title: Gourmet Service Objects
+  url: https://gist.github.com/pcreux/9277929
+  date: February 2014
+  location: *vanruby
