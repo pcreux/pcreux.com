@@ -15,6 +15,8 @@ I am currently running the [Vancouver Ruby meet-up](http://vanruby.org). Prior t
 
 # Latest blog posts
 
+## [Event Sourcing made Simple](https://kickstarter.engineering/event-sourcing-made-simple-4a2625113224) – April 2018
+
 ## [Five Practices for Robust Ruby on Rails applications](http://brewhouse.io/2016/02/26/five-practices-for-robust-ruby-on-rails-applications.html) – Feb 2016
 
 ## [Be nice to others and your future-self: use Data Objects](http://brewhouse.io/2015/07/31/be-nice-to-others-and-your-future-self-use-data-objects.html) – July 2015
