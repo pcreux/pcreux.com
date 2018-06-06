@@ -1,3 +1,15 @@
+- title: Event Sourcing made Simple
+  url: https://docs.google.com/presentation/d/e/2PACX-1vTy90jzJ58zirPRJDLzAqhmf1jcxhC61tjsKMG9Uc-emPjZEyF51rZDKtVxvNJIWG9j3Y6x9eAkJ16q/pub?start=false&loop=false&delayms=5000
+  date: April 2018
+  location:
+    name: Conf & Coffee
+    url: https://github.com/Code-and-Coffee-YVR/confcoffee2018
+
+- title: Oh no Conditionals! (from imperative to declarative code)
+  url: https://gist.github.com/pcreux/2f81a7bfe53fd8adcb4f2984c5a37c87
+  date: March 2018
+  location: *vanruby
+
 - title: Robust Rails Apps
   url: https://gist.github.com/pcreux/5700f5295bb14f33db82242296eae029
   date: March 2017
