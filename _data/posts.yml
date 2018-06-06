@@ -1,4 +1,3 @@
-
 - title: Event Sourcing made Simple
   url: https://kickstarter.engineering/event-sourcing-made-simple-4a2625113224
   date: April 2018
@@ -7,7 +6,7 @@
   url: http://brewhouse.io/2016/02/26/five-practices-for-robust-ruby-on-rails-applications.html
   date: Feb 2016
 
-- title: Be nice to others and your future-self: use Data Objects
+- title: "Be nice to others and your future-self: use Data Objects"
   url: http://brewhouse.io/2015/07/31/be-nice-to-others-and-your-future-self-use-data-objects.html
   date: July 2015
 

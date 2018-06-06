@@ -31,19 +31,11 @@ I am currently running the [Vancouver Ruby meet-up](http://vanruby.org). Prior t
 
 # Open source
 
-## [CSV Importer](https://github.com/pcreux/csv-importer) – CSV Import for humans on Ruby / Ruby on Rails
+{% for project in site.data.os_projects %}
 
-## [ActiveAdmin](http://activeadmin.info) – Administration framework for Ruby on Rails
+## [{{project.title}}]({{project.url}}) – {{project.description}}
 
-## [rspec-set](https://github.com/pcreux/rspec-set) – Speed-up your specs!
-
-## [jekyll-s3](https://github.com/laurilehmijoki/s3_website) – Push your jekyll blog to Amazon S3
-
-## [active_sanity](https://github.com/pcreux/active_sanity) – Sanity check your database
-
-## [bundler-auto-update](https://github.com/pcreux/bundler-auto-update) – Auto-magi-safely update your Gemfile
-
-## [git-branch-delete-orphans](https://github.com/pcreux/git-branch-delete-orphans) – Delete orphan branches
+{% endfor %}
 
 # Live, free and unmaintained projects
 

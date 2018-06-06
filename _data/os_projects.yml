@@ -1,0 +1,27 @@
+- title: CSV Importer
+  url: https://github.com/pcreux/csv-importer
+  description: CSV Import for humans on Ruby / Ruby on Rails
+
+- title: ActiveAdmin
+  url: http://activeadmin.info
+  description: Administration framework for Ruby on Rails
+
+- title: rspec-set
+  url: https://github.com/pcreux/rspec-set
+  description: Speed-up your specs!
+
+- title: jekyll-s3
+  url: https://github.com/laurilehmijoki/s3_website
+  description: Push your jekyll blog to Amazon S3
+
+- title: active_sanity
+  url: https://github.com/pcreux/active_sanity
+  description: Sanity check your database
+
+- title: bundler-auto-update
+  url: https://github.com/pcreux/bundler-auto-update
+  description: Auto-magi-safely update your Gemfile
+
+- title: git-branch-delete-orphans
+  url: https://github.com/pcreux/git-branch-delete-orphans
+  description: Delete orphan branches
