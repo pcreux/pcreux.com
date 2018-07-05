@@ -62,5 +62,3 @@ I co-organized the [Lyon Ruby Meetups](http://lyonrb.fr) as well as the
 
 You can find me on [Twitter](http://twitter.com/pcreux), [Github](http://github.com/pcreux), [LinkedIn](http://linkedin.com/in/pcreux) and [Instagram](https://www.instagram.com/pcreux).
 
-# Contact me at pcreux AT gmail DOT com.
-
