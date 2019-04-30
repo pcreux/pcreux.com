@@ -1,4 +1,11 @@
 - title: Event Sourcing made Simple
+  url: https://pcreux.com/talks/2019-04-30-event-sourcing-made-simple.html
+  date: April 2019
+  location:
+    name: RailsConf 2019
+    url: https://railsconf.com
+
+- title: Event Sourcing made Simple
   url: https://docs.google.com/presentation/d/e/2PACX-1vTy90jzJ58zirPRJDLzAqhmf1jcxhC61tjsKMG9Uc-emPjZEyF51rZDKtVxvNJIWG9j3Y6x9eAkJ16q/pub?start=false&loop=false&delayms=5000
   date: April 2018
   location:
