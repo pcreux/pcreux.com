@@ -13,7 +13,7 @@
     url: https://github.com/Code-and-Coffee-YVR/confcoffee2018
 
 - title: Oh no Conditionals! (from imperative to declarative code)
-  url: https://gist.github.com/pcreux/2f81a7bfe53fd8adcb4f2984c5a37c87
+  url: /talks/2018-04-oh-no-conditionals.pdf
   date: March 2018
   location: &vanruby
     name: VanRuby
