@@ -6,7 +6,7 @@ Hello, my name is Philippe Creux.
 
 I am a Software Developer based in Vancouver, BC. I deeply care about shipping software that’s simple, robust and cost-effective.
 
-I build healthy software at [Kickstarter](https://www.kickstarter.com) to *help bring creative projects to life*.
+I build healthy software at [Zipline](https://www.retailzipline.com).
 
 I’ve been sharing my learnings and practices on various blog posts and built several open source projects.
 
